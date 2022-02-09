@@ -1,0 +1,55 @@
+<!doctype html>
+
+<html lang = "en"> <!-- document is in English -->
+
+  <head>
+    <title> Getting to Know Amanda Mingoes </title>
+	<link rel="shortcut icon" type="image/jpg" href="../Assets/Manda.jpg"> 
+    <meta name = "Author" content = "Amanda Mingoes"></meta>
+    <meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+	<!-- the pixel width of the view port that you want the website to be rendered at  -->
+	<!-- a 1:1 ration between the device width and viewport size -->
+	<meta charset = "UTF-8"/>
+	
+	 </head>
+  <body style = "background:url('../Assets/Sound.png')" > 
+    <header>
+	<hr/>
+	<h1 style = "color:Black"> Amanda's Professional Page</h1>
+	<hr/>
+	 
+	</header>
+	<section>
+	<p style = "color:white">
+	<b>
+	 I currently attend University Of Technology Jamaica and I am persuing a degree in Computing.
+	<br/>I am doing a major in Information Technology and a Minor in Enterprise Systems. 
+	<br/>If you would like to know the different modules done in the course you may click on the link below.
+	<br/> <a href="https://www.utech.edu.jm/academics/colleges-faculties/fenc/mod-guide/BSc.%20Computing-%20Information%20Technology%20with%20Enterprise%20Systems.pdf"> My course</a>   
+	</b>
+	<br/><br/>
+	 Here you will find my resume
+	 <br/>
+	 <a href = '../Assets/Resume.docx'> Resume</a> 
+	</p>
+	
+	<p>
+	 <center style ='color:white'>
+	  <u><b><big>My Vision Statement</big></b></u>
+	    <br/><br/>My vision is to graduate college with a first class honors and become one of the most succesful in Information Technology
+	  
+	  <br/><br/><u><b><big>My Mission Statement</big></b></u>
+	  <br/><br/> My mission is to study hard in all my courses and achieve maximum grades in all areas. 
+	 </center>
+	</p>
+	  
+    </section>
+   
+    <footer>
+	  <br/>
+	  <hr/>
+	  <h5 style = "text-align:center">Copyright &copy; Amanda Mingoes &nbsp;&nbsp; Date: February 8,2022. </h5>
+	</footer>
+
+  </body>
+</html>

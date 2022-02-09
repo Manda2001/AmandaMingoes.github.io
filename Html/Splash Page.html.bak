@@ -1,0 +1,75 @@
+<!doctype html>
+
+<html lang = "en"> <!-- document is in English -->
+
+  <head>
+    <title> Getting to Know Amanda Mingoes </title>
+	<link rel="shortcut icon" type="image/jpg" href="../Assets/Manda.jpg"> 
+    <meta name = "Author" content = "Amanda Mingoes"></meta>
+    <meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+	<!-- the pixel width of the view port that you want the website to be rendered at  -->
+	<!-- a 1:1 ration between the device width and viewport size -->
+	<meta charset = "UTF-8"/>
+	
+	 </head>
+  <body style = "background:url('../Assets/Sound.png')" > 
+    <header>
+	<hr/>
+	<h1 style = "color:Black"> Welcome to Getting to know Amanda Mingoes!!</h1>
+	<hr/>
+	 
+	</header>
+	<section>
+	<br/>
+	<Center>
+	<p style = "color:white">
+	<b>
+	<big>
+	   My name is Amanda Mingoes and this is My website.
+	   <br/>On this website you will be learning a few things about me.
+	   <br/>You will learn about me Professionally; my vision and mission statement.
+	   <br/>You will learn about me Personallly; my likes and dislikes and hobbies.
+	   <br/>You will also learn about my Personality Trait.
+	</big>
+	</b>
+	</p>
+	</center>
+	
+	<table border='1' cellpadding='10' width='90%' style='background-color:lightpink'>
+     <tr>
+     <td><h1> <Center>THINGS YOU NEED TO KNOW </Center></h1> </td>
+	 <td><h1>LINKS</h1></td>
+     </tr>
+     
+	 <tr>
+        <th> Professional Information </th>
+        <td> <a href = "Professional Page.html">Pro.pg</a></td>		
+     </tr>
+	 
+     <tr>
+        <th> Personal Information </th>
+		<td><a href = "Personal Page.html">Per.pg</a></td>	
+     </tr>
+	 
+     <tr>
+        <th> Personal Development</th>
+		<td><a href = "Development.html">Perd.pg</a></td>	
+     </tr>
+	 
+	 <tr>
+        <th> Email </th>
+		<td><a href ='mailto:amandamingoes@gmail.com?subject= Backgrounf Information'><img src = '../Assets/Me.jpg' width= '200' height='300'> </img></a></td>	
+     </tr>
+	 
+  </table>
+	  
+    </section>
+   
+    <footer>
+	  <br/>
+	  <hr/>
+	  <h5 style = "text-align:center">Copyright &copy; Amanda Mingoes &nbsp;&nbsp; Date: February 8,2022. </h5>
+	</footer>
+
+  </body>
+</html>

@@ -1,0 +1,108 @@
+<!doctype html>
+
+<html lang = "en"> <!-- document is in English -->
+
+  <head>
+    <title> Getting to Know Amanda Mingoes </title>
+	<link rel="shortcut icon" type="image/jpg" href="../Assets/Manda.jpg"> 
+    <meta name = "Author" content = "Amanda Mingoes"></meta>
+    <meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+	<!-- the pixel width of the view port that you want the website to be rendered at  -->
+	<!-- a 1:1 ration between the device width and viewport size -->
+	<meta charset = "UTF-8"/>
+	
+	 </head>
+  <body style = "background:url('../Assets/Sound.png')" > 
+    <header>
+	<hr/>
+	<h1 style = "color:Black" > Amanda's Personal Page</h1>
+	<hr/>
+	 
+	</header>
+	<section>
+	<Center>
+	   <b>A quote I live by is <q>Honesty is The best Policy</b></q> 
+	</Center>
+	   
+	
+	<p style ='color:white'>
+	  As a child growing up I always thought I was the extraverted type, I was always interacting with my peers , was alwasy the first to start a conversation
+	  but as I got older I've come to learnt that im very Intorverted. I went on a retreat once and they made us take a personality quiz and after completing the 
+	  quiz I found out I was Introverted.After taking the quiz I realized i was definitely an introvert. I love to interact with others, but I don't like when persons 
+	  are in my space.I like my alone time yet I dont like to feel alone. I get annoyed when someone talks to me for too long.
+	  
+	  <br/>
+	  <Center>
+	  
+        <img src = '../Assets/Intro vert.jpg' width= '300' height='300'> </img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = '../Assets/Peace.jpg' width= '300' height='300'> </img>
+     
+	 </Center>
+	 <br/>
+	 </p>
+	 <p style ='color:white'>
+	  But apart from being introverted I am very observant, emotional, hopeful.
+	  
+	  <br/>
+	  <Center>
+	  
+        <img src = '../Assets/Observe.jpg' width= '300' height='300'> </img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = '../Assets/Emotions.jpg' width= '300' height='300'> </img>
+     
+	  
+        <img src = '../Assets/Hopeful.jpg' width= '300' height='300'> </img>
+		</Center>
+	 <br/>
+	 </p>
+	  <p style ='color:white'>
+	  I enjoy watching movies, listening to music and playing with my brothers. 
+	  
+	  <br/>
+	  <Center>
+	  
+        <img src = '../Assets/Movie.jpg' width= '300' height='300'> </img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = '../Assets/Music.jpg' width= '300' height='300'> </img>
+     
+	  
+        <img src = '../Assets/Games.jpg' width= '300' height='300'> </img>
+		</Center>
+	 <br/>
+	<p style ='color:white'>
+	   I dislike Liars and persons who boast a lot.
+	
+	<Center>
+	  
+        <img src = '../Assets/Liar.jpg' width= '300' height='300'> </img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = '../Assets/Brag.jpeg' width= '300' height='300'> </img>
+     
+	  
+        
+		</Center>
+	
+	
+	</p>
+	<p style ='color:white'>
+	   I took a online personality test on keirsey.com and my results showed that I am a Guardian. Under the characteristics of Guardian I can see where a lot of them 
+	   related to me,<br/> I am humble, I am dependable, hard-working, a stabilizing leader I must say this personality test was very valid. Some questions could have been
+	   asked better but apart from that <br/>it got me to the tee. If you would like to do the quiz yourself you may click the link 
+	   <a href= "http://www.keirsey.com/">keirsey.com</a>
+	
+	<Center>
+	  
+        <img src = '../Assets/Screenshot 1.png' width= '700' height='400'></img>
+		<br/><img src = '../Assets/Screenshot 2.png' width= '700' height='400'> </img> <img src ='../Assets/Screenshot 3.png' width='700' height='400'></img>  
+	  
+        
+		</Center>
+	
+	
+	</p>
+	
+	
+	  
+    </section>
+   
+    <footer>
+	  <br/>
+	  <hr/>
+	  <h5 style = "text-align:center">Copyright &copy; Amanda Mingoes &nbsp;&nbsp; Date: February 8,2022. </h5>
+	</footer>
+
+  </body>
+</html>
